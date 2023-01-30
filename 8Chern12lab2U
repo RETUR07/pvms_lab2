@@ -1,0 +1,73 @@
+Script started on 2023-01-30 23:29:35+03:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="93" LINES="49"]
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat > books
+[?2004lBook one.
+The second book.
+The third.
+This is book four.
+Five.
+This is the sixth.
+This is book seven.
+Eighth and last. [?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ 
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7m sed '/book/ p' books[27m sed '/book/ p' books
+[?2004lBook one.
+The second book.
+The second book.
+The third.
+This is book four.
+This is book four.
+Five.
+This is the sixth.
+This is book seven.
+This is book seven.
+Eighth and last. [?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -n '/book/ p' books[27msed -n '/book/ p' books
+[?2004lThe second book.
+This is book four.
+This is book seven.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -n '2,5 p' books[27msed -n '2,5 p' books
+[?2004lThe second book.
+The third.
+This is book four.
+Five.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat recor[K[K[K[K[K> records 
+[?2004l2,5 p
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -n -f records books[27msed -n -f records books
+[?2004lThe second book.
+The third.
+This is book four.
+Five.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat > [7mappends[27mappends
+[?2004l3 a\
+My favorite book.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -f appends books[27msed -f appends books
+[?2004lBook one.
+The second book.
+The third.
+My favorite book.
+This is book four.
+Five.
+This is the sixth.
+This is book seven.
+Eighth and last. [?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ sed -f appends books[7Pcat > appends[K[K[K[K[K[K[K[7minsert[27minsert
+[?2004l/This/ i\
+SKARBONKA.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -f insert books[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csed -f insert books
+[A
+[?2004lBook one.
+The second book.
+The third.
+SKARBONKA.
+This is book four.
+Five.
+SKARBONKA.
+This is the sixth.
+SKARBONKA.
+This is book seven.
+Eighth and last. [?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7msed -n 's/book/novel/ p' books[27msed -n 's/book/novel/ p' books
+[?2004lThe second novel.
+This is novel four.
+This is novel seven.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ sed -n 's/book/novel/ p' books[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+[?2004lexit
+
+Script done on 2023-01-30 23:33:54+03:00 [COMMAND_EXIT_CODE="0"]

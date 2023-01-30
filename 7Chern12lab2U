@@ -1,0 +1,303 @@
+Script started on 2023-01-30 23:06:47+03:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ exitmv ../chern/packages1.txt .[17Pkdir lab2[5Pcd ..at packages1.txt > packages1.catfile[Knano packages2.txt1.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      packages1.txt                               [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;51H(B[0;7m*[79G(B[m[?12l[?25h[2da[?25l[?12l[?25hm[?25l[?12l[?25ha[?25l[?12l[?25hn[?25l[?12l[?25hd[?25l[?12l[?25ha[?25l[?12l[?25h [?25l[?12l[?25h[?25l[3d[?12l[?25h[?25l[?12l[?25hg[?25l[?12l[?25ha[?25l[?12l[?25hl[?25l[?12l[?25he[?25l[?12l[?25ho[?25l[?12l[?25hp[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25hn[?25l[22d[K[4d[?12l[?25h[?25lmetacity[5dmozilla[6dpostgresql[7dprocinfo[8drpmfind[9dsquid[?12l[?25h[?25l[10d[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[K[24;2H(B[0;7mC(B[m Cancel           (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend         (B[0;7m^T(B[m Browse[K[22d(B[0;7mFile Name to Write: packages1.txt                                               [22;34H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;51H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 9 lines ](B[m[23;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut       (B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[?12l[?25h[10d[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ nano packages1.txt[1P.txt2.txt
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 6.2                      packages2.txt                               [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;51H(B[0;7m*[22d(B[m[K[1;79H[2danaconda[3dopenssh[4dgnome-core[5dsamba[6dsendmail[7dxscreensaver[8d[?12l[?25h[?25l[23;14H       (B[0;7mM-D(B[m DOS Format      (B[0;7mM-A(B[m Append          (B[0;7mM-B(B[m Backup File[K[24;2H(B[0;7mC(B[m Cancel           (B[0;7mM-M(B[m Mac Format      (B[0;7mM-P(B[m Prepend         (B[0;7m^T(B[m Browse[K[22d(B[0;7mFile Name to Write: packages2.txt                                               [22;34H(B[m[?12l[?25h[?25l[1K (B[0;7m[ Writing... ](B[m[K[1;51H(B[0;7m [79G(B[m[22;32H(B[0;7m[ Wrote 6 lines ](B[m[23;14H(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut       (B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24;2H(B[0;7mX(B[m Exit      (B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[?12l[?25h[8d[?25l[22d[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat packages
+[?2004lcat: packages: No such file or directory
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat packages1.txt 
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat 
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat packages1.txt > packages1.catfile[27mcat packages1.txt > packages1.catfile
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat packages1.catfile[27mcat packages1.catfile
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [K]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mdiff packages1.txt packages1.catfile[27mdiff packages1.txt packages1.catfile
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mls -l packages1*[27mls -l packages1*
+[?2004l-rw-rw-r-- 1 retur retur 66 янв 30 23:08 packages1.catfile
+-rw-rw-r-- 1 retur retur 66 янв 30 23:07 packages1.txt
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat packages2.txt >> packages1.catfile[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat packages2.txt >> packages1.catfile
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cat packages2.txt >> packages1.catfile[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pls -l packages1*diff packages1.txt packages1.catfile[15Pca[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctxt > packages1.catfile[Kpackages1.txt 
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat packages1.catfile[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat packages1.catfile
+[A
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+anaconda
+openssh
+gnome-core
+samba
+sendmail
+xscreensaver
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat > typedin.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat > typedin.txt
+[A
+[?2004lThis time, when text is typed at the keyboard,
+it is redirected to the file typedin.txt.
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mls -l typedin.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l typedin.txt
+[A
+[?2004l-rw-rw-r-- 1 retur retur 90 янв 30 23:09 typedin.txt
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat typedin.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat typedin.txt
+[A
+[?2004lThis time, when text is typed at the keyboard,
+it is redirected to the file typedin.txt.
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7m tr ’aeiou’ ’AEIOU’ > trfile.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C tr ’aeiou’ ’AEIOU’ > trfile.txt
+[A
+[?2004lThis time, when text is typed at the keyboard,
+it is not echoed back to the screen with the translations
+made.
+Instead, it is redirected to the file trfile.txt.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mls -l trfile.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l trfile.txt
+[A
+[?2004l-rw-rw-r-- 1 retur retur 161 янв 30 23:10 trfile.txt
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat trfile.txt[27mcat trfile.txt
+[?2004lThIs tImE, whEn tExt Is typEd At thE kEybOArd,
+It Is nOt EchOEd bAck tO thE scrEEn wIth thE trAnslAtIOns
+mAdE.
+InstEAd, It Is rEdIrEctEd tO thE fIlE trfIlE.txt.
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat packages1.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat packages1.txt
+[A
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mcat < packages1.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat < packages1.txt
+[A
+[?2004lamanda
+galeon
+metacity
+mozilla
+postgresql
+procinfo
+rpmfind
+squid
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7m tr ’aeiou’ ’AEIOU’ < packages1.txt[27m tr ’aeiou’ ’AEIOU’ < packages1.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mtr ’aeiou’ ’AEIOU’ < packages1.txt > packages1.trfile.txt[27m 
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctr ’aeiou’ ’AEIOU’ < packages1.txt > packages1.trfile.txt 
+[A
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7m ls -l packages1.txt packages1.trfile.txt[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ls -l packages1.txt packages1.trfile.txt
+[?2004l-rw-rw-r-- 1 retur retur 66 янв 30 23:11 packages1.trfile.txt
+-rw-rw-r-- 1 retur retur 66 янв 30 23:07 packages1.txt
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7m cat packages1.trfile.txt[27m cat packages1.trfile.txt
+[?2004lAmAndA
+gAlEOn
+mEtAcIty
+mOzIllA
+pOstgrEsql
+prOcInfO
+rpmfInd
+sqUId
+
+[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mmkdir examples[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir examples
+[A
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ p[K[7mls -la > examples/log.txt[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -la > examples/log.txt
+[A
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ [7mawk '/bash/ {print}' examples/*[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '/bash/ {print}' examples/*
+[A
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ awk '/bash/ {print}' examples/*
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/lab2retur@retur-virtual-machine:~/lab2$ cd ..
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cd ..
+[?2004l[?2004h]0;retur@retur-virtual-machine: /homeretur@retur-virtual-machine:/home$ cd retur/
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cd retur/[4P..awk '/bash/ {print}' examples/*
+[?2004lawk: cannot open examples/* (No such file or directory)
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ awk '/bash/ {print}' examples/*cd retur/[K[4P..awk '/bash/ {print}' examples/*[6Pls -la > examples/log.txt[11Pmkdir examples
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ mkdir examplesawk '/bash/ {print}' examples/*cd retur/[K[4P..awk '/bash/ {print}' examples/*[6Pls -la > examples/log.txt
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ ls -la > examples/log.txt[11Pmkdir examplesawk '/bash/ {print}' examples/*
+[?2004l-rw-------  1 retur retur        8397 янв 30 23:06 .bash_history
+-rw-r--r--  1 retur retur         220 сен  6 23:34 .bash_logout
+-rw-r--r--  1 retur retur        3771 сен  6 23:34 .bashrc
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ [7mawk '/config/' examples/*[27mawk '/config/' examples/*
+[?2004ldrwx------ 12 retur retur        4096 янв 30 22:42 .config
+-rw-rw-r--  1 retur retur          40 янв 29 13:39 .gitconfig
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ [7mawk '/QUIT|SETDATE/' /usr/include/protocols/*[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cawk '/QUIT|SETDATE/' /usr/include/protocols/*
+[?2004lawk: cannot open /usr/include/protocols/* (No such file or directory)
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cd ..
+[?2004l[?2004h]0;retur@retur-virtual-machine: /homeretur@retur-virtual-machine:/home$ cd ..awk '/QUIT|SETDATE/' /usr/include/protocols/*
+[?2004lawk: cannot open /usr/include/protocols/* (No such file or directory)
+[?2004h]0;retur@retur-virtual-machine: /homeretur@retur-virtual-machine:/home$ cd ..
+[?2004l[?2004h]0;retur@retur-virtual-machine: /retur@retur-virtual-machine:/$ cd ..awk '/QUIT|SETDATE/' /usr/include/protocols/*
+[?2004lawk: cannot open /usr/include/protocols/* (No such file or directory)
+[?2004h]0;retur@retur-virtual-machine: /retur@retur-virtual-machine:/$ awk '/QUIT|SETDATE/' /usr/include/protocols/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K[K[K
+bin/        etc/        lib64/      mnt/        run/        sys/        
+boot/       home/       libx32/     opt/        sbin/       tmp/        
+cdrom/      lib/        lost+found/ proc/       snap/       usr/        
+dev/        lib32/      media/      root/       srv/        var/        
+]0;retur@retur-virtual-machine: /retur@retur-virtual-machine:/$ cd awk '/QUIT|SETDATE/' /usr/include/protocols/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kawk '/QUIT|SETDATE/' /usr/include/protocols/*
+[?2004lawk: cannot open /usr/include/protocols/* (No such file or directory)
+[?2004h]0;retur@retur-virtual-machine: /retur@retur-virtual-machine:/$ awk '/QUIT|SETDATE/' /usr/include/protocols/*[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd [Khome/
+[?2004l[?2004h]0;retur@retur-virtual-machine: /homeretur@retur-virtual-machine:/home$ cd retur/
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cat > myfile
+[?2004lThis is a test.
+This is the second test.
+This is the third test.
+This is the fourth test.
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cat > myfile[1P myfile
+[?2004lThis is a test.
+This is the second test.
+This is the third test.
+This is the fourth test.
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ [7mawk '{print $1}' myfile[27mawk '{print $1}' myfile
+[?2004lThis
+This
+This
+This
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ [7mawk '{print $3}' myfile[27mawk '{print $3}' myfile
+[?2004la
+the
+the
+the
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ [7m$ awk '/foo/ { print toupper($0); }'[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C$ awk '/foo/ { print toupper($0); }'
+[A
+[?2004l$: command not found
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ $ awk '/foo/ { print toupper($0); }'[1P[1P
+[?2004lThis line contains bar.
+This line contains foo.
+THIS LINE CONTAINS FOO.THIS LINE CONTAINS FOO.
+
+[?2004h]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cd 
+.cache/    .config/   Documents/ examples/  .local/    Pictures/  snap/      Templates/
+chern/     Desktop/   Downloads/ lab2/      Music/     Public/    .ssh/      Videos/
+]0;retur@retur-virtual-machine: ~retur@retur-virtual-machine:~$ cd examples/
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ a[Kcar [K[Kt > [7mlist_students,[27m[1Plist_students
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Липин Федор ПИ 2 4
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+ awk '{print $1,$2,$5}' list_students
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ ^[[200~ awk '{print $1,$2,$5}' list_students
+[?2004l[200~: command not found
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ ~[7m awk '{print $1,$2,$5}' list_students[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C awk '{print $1,$2,$5}' list_students[1P[1P
+[?2004lАсташко Иван 6
+Бузун Евгений 9
+Кравченя Леонид 4
+Кошкин Владимир 7
+Липин Федор 4
+Пенов Николай 5
+Яшин Петр 8
+awk '{print 
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7m awk '/8/ {print $0}' list_students [27m awk '/8/ {print $0}' list_students 
+[?2004lЯшин Петр КБ 4 8
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk '($5==4)' list_students[27mawk '($5==4)' list_students
+[?2004lКравченя Леонид ПМ 1 4
+Липин Федор ПИ 2 4
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ ^[[200~awk '($3=="КБ")&&($4==1)' list_students~[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mawk '($3=="КБ")&&($4==1)' list_students[27mawk '($3=="КБ")&&($4==1)' list_students
+[?2004lБузун Евгений КБ 1 9
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7m awk '(length($2)>5) {print}' list_students[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C awk '(length($2)>5) {print}' list_students
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Липин Федор ПИ 2 4
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+ awk '{print $1,$2,$5}' list_students
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7m awk '{print NR, $0}' list_students[27m awk '{print NR, $0}' list_students
+[?2004l1 Асташко Иван ПИ 1 6
+2 Бузун Евгений КБ 1 9
+3 Кравченя Леонид ПМ 1 4
+4 Кошкин Владимир ИН 1 7
+5 Липин Федор ПИ 2 4
+6 Пенов Николай ПМ 1 5
+7 Яшин Петр КБ 4 8
+8  awk '{print $1,$2,$5}' list_students
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk '{print toupper ($2)}' list_students[27mawk '{print toupper ($2)}' list_students
+[?2004lИван
+Евгений
+Леонид
+Владимир
+Федор
+Николай
+Петр
+'{PRINT
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk '{sum += $5} END {print("SUM=",sum)}' list_studen[27m[7mt[27m[7ms[27m[A]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ awk '{sum += $5} END {print("SUM=",sum)}' list_students
+[?2004lSUM= 43
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk '($1 ~ /Кравченя/)' list_students[27mawk '($1 ~ /Кравченя/)' list_students
+[?2004lКравченя Леонид ПМ 1 4
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7m awk '($1 ~ /[Лл]ипин/)' list_students[27m awk '($1 ~ /[Лл]ипин/)' list_students
+[?2004lЛипин Федор ПИ 2 4
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk '($1 ~ /[Лл]ипин/)' list_students[27mawk '($1 ~ /[Лл]ипин/)' list_students
+[?2004lЛипин Федор ПИ 2 4
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ awk '($1 ~ /[Лл]ипин/)' list_students[1@!
+[?2004lАсташко Иван ПИ 1 6
+Бузун Евгений КБ 1 9
+Кравченя Леонид ПМ 1 4
+Кошкин Владимир ИН 1 7
+Пенов Николай ПМ 1 5
+Яшин Петр КБ 4 8
+ awk '{print $1,$2,$5}' list_students
+[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ cat > [7m colours.csv[27m colours.csv
+[?2004lname,color,amount
+apple,red,4
+banana,yellow,6
+strawberry,red,3
+grape,purple,10
+apple,green,8
+plum,purple,2
+kiwi,brown,4
+potato,brown,9
+pineapple,yellow,5[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ 
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ [7mawk -F”,” '$3>6 {print $1, $2}' colours.csv > output.[27m[7mt[27m[7mxt[27m[A]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ awk -F”,” '$3>6 {print $1, $2}' colours.csv > output.txt
+[?2004l[?2004h]0;retur@retur-virtual-machine: ~/examplesretur@retur-virtual-machine:~/examples$ exit
+[?2004lexit
+
+Script done on 2023-01-30 23:28:24+03:00 [COMMAND_EXIT_CODE="0"]
